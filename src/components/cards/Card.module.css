@@ -1,0 +1,21 @@
+.card{
+    /* box-sizing: border-box; */
+    width: 416px;
+    height: 570px;
+    background: #FFFFFF;
+    border: 1px solid #C5C5C5;
+    border-radius: 12px;
+    margin: 0;
+    justify-self: center;
+    padding-bottom: 20px;
+}
+.card img{
+    width: 414px;
+    height: 80%;
+    margin: 2px 0;
+    border-radius: 12px 12px 0 0 ;
+}
+.name{
+    font-weight: bold;
+    font-size: 32px;
+}
